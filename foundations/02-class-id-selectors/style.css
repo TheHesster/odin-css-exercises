@@ -1,0 +1,19 @@
+.red-bg {
+  background-color: #fc8d8d;
+  font: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.font24 {
+  font-size: 24px;
+}
+
+#one {
+  color: #000dff;
+  font-size: 36px;
+}
+
+#two {
+  background-color: #82ffa7;
+  font-size: 24px;
+  font-weight: bold;
+}
